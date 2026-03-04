@@ -20,7 +20,8 @@ music: Your audio library (MP3, FLAC, etc.).
 
 plugins: External binary plugins.
 
-2️⃣ Start the ContainerRun the following command to pull the image and start the server:
+2️⃣ Start the Container
+Run the following command to pull the image and start the server:
 
 docker run -d \
   --name navidrome \
@@ -94,5 +95,9 @@ ND_BASEURLSet this if using a Reverse Proxy./music
 ND_ENABLETRANSCODINGEnable on-the-fly audio conversion.true
 
 
-🚀 Get Started!Once the container is running, open your browser and go to:👉 http://localhost:4533 (or your server's IP)Note: On your first visit, you will be prompted to create an admin account. 🎵
-***
+🚀 Get Started!
+Once the container is running, open your browser and go to:
+👉 http://localhost:4533 (or your server's IP)
+
+Note: On your first visit, you will be prompted to create an admin account.🎵
+
