@@ -1,10 +1,12 @@
-Awesome Selfhosted Music 🎧
+# Awesome Selfhosted Music 🎧
 
-A curated and structured collection of tools, servers, clients, plugins, themes, integrations, and deployment guides for the self-hosted music ecosystem.
+A curated and structured collection of tools, servers, clients, plugins, themes, integrations, and deployment guides for the **self-hosted music ecosystem**.
 
 This repository aims to centralize useful resources for people who host their own music libraries and streaming services.
 
-📚 About
+---
+
+## 📚 About
 
 Self-hosted music platforms allow you to build your own personal streaming service using your own library and infrastructure.
 
