@@ -48,6 +48,17 @@ Adds **AI-powered discovery and recommendations** based on your music library.
 
 ---
 
+## 🧠 Apple Music Metadata Plugin for Navidrome
+
+🔗 <https://github.com/navidrome/apple-music-plugin>  
+
+- **Open Source:** ✅ Yes  
+- **Price:** Free  
+
+This plugin fetches artist and album metadata from Apple Music using free iTunes/Apple Music endpoints — no API key or authentication required. It provides artist biographies, images, similar artists, top songs, and album artwork by scraping Apple Music web pages and querying the iTunes Search/Lookup APIs.
+
+---
+
 ## ⚠️ Notes
 
 - All plugins listed are **free and open source**.
