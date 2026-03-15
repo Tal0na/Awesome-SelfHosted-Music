@@ -2,25 +2,123 @@
 
 A concise comparison of tools for organizing, tagging, deduplicating, and converting music libraries.
 
+## ⭐ Recommended Apps
+
+### MusicBrainz Picard
+
+- **Platform:** Linux / Windows / macOS
+- **License:** GPL-2.0 License
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Rating:** ⭐⭐⭐⭐⭐
+- **Last Update:** Active development
+- **Highlights:**
+  - AcoustID audio fingerprinting
+  - Automatic metadata correction
+  - Album-based tagging
+  - Plugin support
+  - Deep integration with the MusicBrainz database
+
 ---
 
-## 🔳 Tool Comparison Grid
+### AudioRanger
 
-| Tool | Platform | Open Source | ⭐ Rating | Primary Focus |
-|------|----------|------------|-----------|---------------|
-| **beets** | Linux / macOS / Windows | ✅ Yes | ⭐⭐⭐⭐⭐ | Automated library management |
-| **MusicBrainz Picard** | Cross-platform | ✅ Yes | ⭐⭐⭐⭐⭐ | Audio fingerprint tagging |
-| **Kid3** | Cross-platform | ✅ Yes | ⭐⭐⭐⭐☆ | Metadata editing (GUI/CLI) |
-| **Mp3tag** | Windows / macOS | ❌ No | ⭐⭐⭐⭐⭐ | Fast batch tagging |
-| **MusicBee** | Windows | ❌ No | ⭐⭐⭐⭐☆ | Player + library manager |
-| **foobar2000** | Windows / macOS | ❌ No | ⭐⭐⭐⭐☆ | Customizable player + tagging |
-| **Strawberry** | Linux / Windows / macOS | ✅ Yes | ⭐⭐⭐⭐☆ | Player + library tools |
-| **MediaMonkey** | Windows | ❌ No | ⭐⭐⭐⭐☆ | Large library organization |
-| **AudioRanger** | Windows | ❌ No | ⭐⭐⭐⭐☆ | Auto-tagging + duplicate detection |
-| **AcoustID / Chromaprint** | Cross-platform | ✅ Yes | ⭐⭐⭐⭐⭐ | Audio fingerprint identification |
-| **ffmpeg** | Cross-platform | ✅ Yes | ⭐⭐⭐⭐⭐ | Audio conversion & processing |
-| **dupeGuru** | Cross-platform | ✅ Yes | ⭐⭐⭐⭐☆ | Duplicate file detection |
-| **puddletag** | Linux | ✅ Yes | ⭐⭐⭐⭐☆ | Spreadsheet-style tagging |
+- **Platform:** Windows
+- **License:** Proprietary
+- **Open Source:** ❌ No
+- **Price:** 💲 Paid (trial available)
+- **Rating:** ⭐⭐⭐⭐☆
+- **Last Update:** Active development
+- **Highlights:**
+  - Automatic music identification
+  - Duplicate file detection
+  - Batch metadata editing
+  - Library cleanup tools
+  - MusicBrainz integration
+
+---
+
+### beets
+
+- **Platform:** Linux / macOS / Windows
+- **License:** MIT License
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Rating:** ⭐⭐⭐⭐⭐
+- **Last Update:** Active development (frequent updates)
+- **Highlights:**
+  - Automated music library organization
+  - Powerful plugin system
+  - Command-line automation
+  - Integration with MusicBrainz
+  - Ideal for very large collections
+
+---
+
+### Kid3
+
+- **Platform:** Linux / Windows / macOS
+- **License:** GPL License
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Rating:** ⭐⭐⭐⭐☆
+- **Last Update:** Active development
+- **Highlights:**
+  - Advanced tag editing
+  - Batch metadata editing
+  - GUI and CLI support
+  - Multiple tag formats supported
+  - Scriptable workflows
+
+---
+
+### Strawberry
+
+- **Platform:** Linux / Windows / macOS
+- **License:** GPL License
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Rating:** ⭐⭐⭐⭐☆
+- **Last Update:** Active development
+- **Highlights:**
+  - Modern music player
+  - Library management tools
+  - Streaming service integration
+  - High-quality audio playback
+  - Fork of the Clementine player
+
+---
+
+### ffmpeg
+
+- **Platform:** Linux / Windows / macOS
+- **License:** LGPL / GPL
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Rating:** ⭐⭐⭐⭐⭐
+- **Last Update:** Active development
+- **Highlights:**
+  - Audio format conversion
+  - Batch audio processing
+  - Lossless format support
+  - Metadata handling
+  - Industry standard multimedia toolkit
+
+---
+
+### dupeGuru
+
+- **Platform:** Linux / Windows / macOS
+- **License:** GPL License
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Rating:** ⭐⭐⭐⭐☆
+- **Last Update:** Maintained
+- **Highlights:**
+  - Duplicate file detection
+  - Music edition for audio libraries
+  - Hash-based comparison
+  - Helps clean large music collections
 
 ---
 
