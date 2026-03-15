@@ -20,8 +20,6 @@ Music players and applications compatible with Selfhost Music.
 - [iOS Clients](clients/ios.md)
 - [Windows Clients](clients/windows.md)
 - [Linux Clients](clients/linux.md)
-- [Web Clients](clients/web.md)
-
 ---
 
 ## 🎨 Themes
