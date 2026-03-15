@@ -1,16 +1,5 @@
 # 🎵 Self-Hosted Music Tools & Plugins
 
-A curated collection of **plugins, tools and integrations** that extend self-hosted music servers like **Navidrome** and **Jellyfin**.
-
-These plugins can add features such as:
-
-- Lyrics fetching
-- Discord Rich Presence
-- AI music discovery
-- Automatic playlists
-- Scrobbling integrations
-- Metadata enrichment
-
 ---
 
 ## 🔌 Navidrome Plugins
