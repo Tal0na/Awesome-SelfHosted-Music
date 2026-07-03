@@ -118,6 +118,7 @@ See → [remote-access/README.md](remote-access/README.md)
 See → [tools/README.md](tools/README.md)
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## 🤝 Contributing
 
