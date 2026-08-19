@@ -38,6 +38,21 @@ A curated list of Windows desktop clients
 - 🌐 [Official Website](kopuz.temidara.rocks )
 
 
+---
+
+### 🎧 VPX
+
+- **License:** Proprietary
+- **Open Source:** ❌ No
+- **Price:** 💰 R$ 49.90 one-time (~US$ 10), 3-day free trial
+
+#### 🚀 Highlights
+- VPX is a Winamp-inspired local music player for Windows with a live 8-channel oscilloscope, a 10-band equalizer with curve drawing, and support for ~70 formats — from tracker files of the 90s (.mod, .s3m, .xm, .it) to lossless audio (.flac, .ape, .wv). Built by a solo developer from Brazil.
+
+#### 📥 Installation
+- 🌐 [Official Website](https://vpx-landing.vercel.app/en/?utm_source=selfhosted-music)
+
+
 ## ⚠️ Notes
 
 - Licensing and pricing information may change over time.
