@@ -1,6 +1,6 @@
-# 🖥️ Best Windows Music player
+# 🖥️ Best Windows Music Players
 
-A curated list of Windows desktop clients
+A curated list of Windows desktop players.
 ---
 
 ## ⭐ Recommended Apps
@@ -14,11 +14,11 @@ A curated list of Windows desktop clients
 - **Rating:** ⭐⭐⭐⭐⭐
 
 #### 🚀 Highlights
-- Dopamine is an elegant audio player which tries to make organizing and listening to music as simple and pretty as possible. This version is written using Electron, Angular and Typescript and works on Windows, Linux and Mac.
+- Dopamine is an elegant audio player which tries to make organizing and listening to music as simple and pretty as possible. This version is written using Electron, Angular and TypeScript and works on Windows, Linux and macOS.
 
 #### 📥 Installation
 - 🌐 [GitHub](https://github.com/digimezzo/dopamine)
-- 🌐 [Official Website](digimezzo.github.io/site/)
+- 🌐 [Official Website](https://digimezzo.github.io/site/)
 
 ---
 
@@ -35,10 +35,10 @@ A curated list of Windows desktop clients
 
 #### 📥 Installation
 - 🌐 [GitHub](https://github.com/Kopuz-org/kopuz)
-- 🌐 [Official Website](kopuz.temidara.rocks )
+- 🌐 [Official Website](https://kopuz.temidara.rocks/)
 
 
 ## ⚠️ Notes
 
 - Licensing and pricing information may change over time.
-- Please verify the latest information in each project's repository or Play Store page before.
+- Please verify the latest information in each project's repository or official store page before using it.

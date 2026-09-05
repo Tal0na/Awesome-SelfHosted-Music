@@ -34,4 +34,4 @@ A curated list of linux desktop clients
 ## ⚠️ Notes
 
 - Licensing and pricing information may change over time.
-- Please verify the latest information in each project's repository or Play Store page before.
+- Please verify the latest information in each project's repository or Play Store page before using it.

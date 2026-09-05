@@ -4,11 +4,11 @@ This guide lists **clients that can scrobble your listening activity** from musi
 
 ---
 
-## 🟢 Pano Scrabble
+## 🟢 Pano Scrobbler
 
 - **Platform:** Android / Desktop  
-- **Support:**  ListenBrainz / last.fm / libre.fm  
-- **Open Source:** GPL-3.0 license   
+- **Support:** ListenBrainz / Last.fm / Libre.fm
+- **License:** GPL-3.0
 - **Description:**  
  Pano Scrobbler is a lightweight client that tracks your listening activity and sends it to scrobbling services automatically. It can also sync your loved tracks and allows you to like songs directly from the app. Works well with both server-based music libraries and local playback.
 

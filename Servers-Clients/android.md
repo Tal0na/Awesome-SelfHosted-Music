@@ -1,6 +1,6 @@
-# 📱 Best Android Clients for Selfhost Music
+# 📱 Best Android Clients for Self-hosted Music
 
-A curated list of Android apps compatible with **Selfhost Music** and other Subsonic-based servers.
+A curated list of Android apps compatible with **self-hosted music** and other Subsonic-based servers.
 
 ---
 
@@ -121,4 +121,4 @@ A curated list of Android apps compatible with **Selfhost Music** and other Subs
 ## ⚠️ Notes
 
 - Licensing and pricing information may change over time.
-- Please verify the latest information in each project's repository or Play Store page before.
+- Please verify the latest information in each project's repository or Play Store page before using it.

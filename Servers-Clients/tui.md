@@ -1,6 +1,6 @@
-# 🎧 Best Tui Clients for Selfhost Music
+# 🎧 Best TUI Clients for Self-hosted Music
 
-A curated list of recommended Tui clients compatible with **Selfhost Music** and other Subsonic-compatible servers.
+A curated list of recommended TUI clients compatible with **self-hosted music** and other Subsonic-compatible servers.
 
 ---
 
@@ -44,4 +44,4 @@ A curated list of recommended Tui clients compatible with **Selfhost Music** and
 ## ⚠️ Notes
 
 - Licensing and pricing information may change over time.
-- Please verify the latest information in each project's repository or Play Store page before.
+- Please verify the latest information in each project's repository before using it.

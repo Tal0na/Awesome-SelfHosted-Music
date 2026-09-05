@@ -1,6 +1,6 @@
 # 🎵 Metadata Best Practices for Music Libraries
 
-This guide explains essential metadata tags, format differences, and practical strategies to maintain a clean, searchable, and server-friendly music library compatible with Selfhost Music and other players.
+This guide explains essential metadata tags, format differences, and practical strategies to maintain a clean, searchable, and server-friendly music library compatible with self-hosted music servers and other players.
 
 ---
 

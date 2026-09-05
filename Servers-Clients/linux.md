@@ -1,6 +1,6 @@
-# 🎧 Best Linux Clients for Selfhost Music
+# 🎧 Best Linux Clients for Self-hosted Music
 
-A curated list of recommended Linux clients compatible with **Selfhost Music** and other Subsonic-compatible servers.
+A curated list of recommended Linux clients compatible with **self-hosted music** and other Subsonic-compatible servers.
 
 ---
 
@@ -87,7 +87,7 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 
 #### 📥 Installation
 - 🌐 [GitHub](https://github.com/Kopuz-org/kopuz)
-- 🌐 [Official Website](kopuz.temidara.rocks)
+- 🌐 [Official Website](https://kopuz.temidara.rocks/)
 
 ---
 
@@ -133,4 +133,4 @@ https://github.com/Taiko2k/Tauon
 ## ⚠️ Notes
 
 - Licensing and pricing information may change over time.
-- Please verify the latest information in each project's repository or Play Store page before.
+- Please verify the latest information in each project's repository or Play Store page before using it.

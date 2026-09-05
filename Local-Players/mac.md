@@ -1,6 +1,6 @@
-# 🖥️ Best Windows Music player
+# 🖥️ Best macOS Music Players
 
-A curated list of Windows desktop clients
+A curated list of macOS desktop players.
 
 ---
 
@@ -19,5 +19,5 @@ A curated list of Windows desktop clients
 
 #### 📥 Installation
 - 🌐 [GitHub](https://github.com/Kopuz-org/kopuz)
-- 🌐 [Official Website](kopuz.temidara.rocks )
+- 🌐 [Official Website](https://kopuz.temidara.rocks/)
 

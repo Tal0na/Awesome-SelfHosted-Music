@@ -6,21 +6,21 @@ If your player doesn't have built-in scrobbling, we recommend using a third-part
 
 ### 📱 Mobile
 
-- [Android Clients](android.md)
-- [IOS Clients](ios.md)
+- [Android Players](android.md)
+- [iOS Local Players](ios.md)
 
 ### 📱 Desktop
 
-- [Windows Clients](windows.md)
-- [Mac Clients](mac.md)
-- [Linux Clients](linux.md)
+- [Windows Players](windows.md)
+- [Mac Players](mac.md)
+- [Linux Players](linux.md)
 
 ### 📱 Web
 
-- [Web Clients](web.md)
+- [Web Local Players](web.md)
 
 ### 📱 Terminal Clients
 
-- [Terminal CLI / TUI](tui.md)
+- [Local CLI / TUI Players](tui.md)
 
 ---

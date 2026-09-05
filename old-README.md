@@ -22,7 +22,7 @@ Platforms that host and stream your music library
 
 ## 📱 Music Players
 
-Music players and applications compatible with Selfhost Music.
+Music players and applications compatible with self-hosted music servers.
 
 - [Clients for Servers](Servers-Clients/README.md)
 - [Local Players](Local-Players/README.md)
@@ -63,10 +63,8 @@ Infrastructure and hosting guides.
 
 ## 🔗 Integrations
 
-External services and connected platforms.
-
-- [Discord Integration](integrations/discord.md)
-- [Webhooks](integrations/webhooks.md)
+External services and connected platforms are documented with their respective
+plugins and deployment guides in the current [README](README.md).
 
 ---
 

@@ -7,7 +7,7 @@ For scrobbling support we recommend servers with native support, such as Navidro
 ### 📱 Mobile
 
 - [Android Clients](android.md)
-- [IOS Clients](ios.md)
+- [iOS Clients](ios.md)
 
 ### 📱 Desktop
 

@@ -1,6 +1,6 @@
-# 🖥️ Best Windows Clients for Selfhost Music
+# 🖥️ Best Windows Clients for Self-hosted Music
 
-A curated list of Windows desktop clients compatible with **Selfhost Music** and other Subsonic-based servers.
+A curated list of Windows desktop clients compatible with **self-hosted music** and other Subsonic-based servers.
 
 ---
 
@@ -63,7 +63,7 @@ A curated list of Windows desktop clients compatible with **Selfhost Music** and
 
 #### 📥 Installation
 - 🌐 [GitHub](https://github.com/Kopuz-org/kopuz)
-- 🌐 [Official Website](kopuz.temidara.rocks)
+- 🌐 [Official Website](https://kopuz.temidara.rocks/)
 
 ---
 
@@ -107,4 +107,4 @@ A curated list of Windows desktop clients compatible with **Selfhost Music** and
 ### ⚠️ Notes
 
 - Licensing and pricing information may change over time.
-- Please verify the latest information in each project's repository or Play Store page before.
+- Please verify the latest information in each project's repository or Play Store page before using it.

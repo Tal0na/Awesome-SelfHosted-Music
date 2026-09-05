@@ -1,17 +1,17 @@
-# 🎵 Adding Lyrics to Selfhost Music
+# 🎵 Adding Lyrics to Self-hosted Music
 
-This guide explains how Selfhost Music searches for lyrics and how you can easily add them to your music files.
+This guide explains how self-hosted music servers search for lyrics and how you can easily add them to your music files.
 
 ---
 
 ## ✅ Quick Overview
 
-Selfhost Music supports:
+self-hosted music servers support:
 
 - 📄 External lyric files (`.lrc` or `.txt`)
 - 🏷️ Embedded lyrics inside audio file tags
 
-By default, Selfhost Music searches in this order:
+By default, self-hosted music servers search in this order:
 
 .lrc → .txt → embedded
 
@@ -56,7 +56,7 @@ Format:
 
 [mm:ss.xx] Lyrics line
 
-Selfhost Music will automatically sync the lyrics during playback.
+self-hosted music servers will automatically sync the lyrics during playback.
 
 ---
 
@@ -112,7 +112,7 @@ Restart-Service
 
 After adding lyrics:
 
- - Restart Selfhost Music
+ - Restart the music server
  - Use the Scan option in the Admin panel
  - Modify the file date to trigger re-indexing
 

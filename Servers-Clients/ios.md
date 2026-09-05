@@ -1,6 +1,6 @@
 # 🎧 Best iOS Clients for Self-host Music
 
-A curated list of recommended ios clients compatible with **Self-host Music** and other Subsonic-compatible servers.
+A curated list of recommended iOS clients compatible with **self-hosted music** and other Subsonic-compatible servers.
 
 ---
 
@@ -108,4 +108,4 @@ A curated list of recommended ios clients compatible with **Self-host Music** an
 ## ⚠️ Notes
 
 - Licensing and pricing information may change over time.
-- Please verify the latest information in each project's repository or Play Store page before.
+- Please verify the latest information in each project's repository or App Store page before using it.

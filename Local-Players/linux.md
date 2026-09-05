@@ -1,6 +1,6 @@
-# 🖥️ Best Windows Music player
+# 🖥️ Best Linux Music Players
 
-A curated list of linux desktop clients
+A curated list of Linux desktop players.
 ---
 
 ## ⭐ Recommended Apps
@@ -19,7 +19,7 @@ A curated list of linux desktop clients
 #### 📥 Installation
 - 🌐 [GitHub](https://github.com/digimezzo/dopamine)
 - 🌐 [Snap Store](https://snapcraft.io/dopamine)
-- 🌐 [Official Website](digimezzo.github.io/site/)
+- 🌐 [Official Website](https://digimezzo.github.io/site/)
 
 ---
 
@@ -36,11 +36,11 @@ A curated list of linux desktop clients
 
 #### 📥 Installation
 - 🌐 [GitHub](https://github.com/Kopuz-org/kopuz)
-- 🌐 [Official Website](kopuz.temidara.rocks )
+- 🌐 [Official Website](https://kopuz.temidara.rocks/)
 
 ---
 
 ## ⚠️ Notes
 
 - Licensing and pricing information may change over time.
-- Please verify the latest information in each project's repository or Play Store page before.
+- Please verify the latest information in each project's repository or Play Store page before using it.

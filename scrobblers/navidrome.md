@@ -1,8 +1,8 @@
 # 🟦 Navidrome Scrobbling Guide
 
-## The Last.fm and ListenBrainz plugins will export and store your scrobbles
+## Last.fm and ListenBrainz integrations
 
-Navidrome allows you to **track your listening activity** and **your track Loved** using scrobbling services like **ListenBrainz** and **Last.fm**.
+Navidrome allows you to **track your listening activity** and **mark tracks as loved** using services like **ListenBrainz** and **Last.fm**.
 
 ---
 
@@ -10,16 +10,14 @@ Navidrome allows you to **track your listening activity** and **your track Loved
 
 ### 🔌 How to Enable Scrobbling
 
-1. **Open your Jellyfin dashboard.**
-2. Search for the **scrobbling** you want (e.g., Last.fm or ListenBrainz).  
-3. settings:
-   - Enter your **API key** if required.  
-   - Log in with your **scrobbling account** (Last.fm / ListenBrainz).  
-4. Save your settings and restart Jellyfin if prompted.  
+1. Open your Navidrome user profile's **Personal Settings**.
+2. Enable the **Last.fm** or **ListenBrainz** scrobbling option.
+3. Follow the provider's authorization flow and enter a token when prompted.
+4. Save your settings.
 
 ### ⚠️ Notes / Disclaimer
 
-- Navidrome scrobbling requires **NodeDoc / proper Docker environment** when using Last.fm.  
+- Last.fm requires an API key and API secret configured in Navidrome's external integrations.
 - Ensure your **Navidrome version** is up-to-date to support scrobbling features.  
 - Offline playback may only scrobble when the server reconnects to the internet.  
 - Always check your **API keys and environment variables** for correctness.
