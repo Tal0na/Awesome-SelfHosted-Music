@@ -82,6 +82,8 @@ See → [plugins/README.md](plugins/README.md)
 
 - **Last.fm** — Track and share your listening history
 - **ListenBrainz** — Open-source listening history tracking
+- **Koito** — Self-hosted listening history and scrobbling
+- **multi-scrobbler** — Route scrobbles from multiple sources to multiple services
 
 See → [scrobblers/README.md](scrobblers/README.md)
 

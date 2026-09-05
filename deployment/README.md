@@ -7,6 +7,7 @@ Run your server in isolated containers using Docker.
 Examples include:
 - Easy and fast deployment of Navidrome or Jellyfin
 - Simple updates and portability across systems
+- [Watchtower](watchtower.md) for automated Docker image updates
 ---
 ## 🟣 VPS
 Host your server on a cloud VPS to make it accessible from anywhere.

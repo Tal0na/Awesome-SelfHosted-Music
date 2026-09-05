@@ -10,3 +10,4 @@ Community plugins and tools for Navidrome.
 - [ListenBrainz Daily Playlist](./listenbrainz-daily-playlist.md)
 - [MusicBrainz Metadata](./musicbrainz.md)
 - [Navidrome Lyrics](./navidrome-lyrics.md)
+- [NaviBeat Mixes](./navibeat-mixes.md)

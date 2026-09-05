@@ -34,6 +34,13 @@ This guide explains how to enable scrobbling in compatible **mobile and desktop 
 
 ---
 
+## 🏠 Self-hosted Scrobbling Tools
+
+- **[Koito](/scrobblers/koito.md)** – Self-hosted, themeable listening history dashboard with a ListenBrainz-compatible submission endpoint.
+- **[multi-scrobbler](/scrobblers/multi-scrobbler.md)** – Aggregates playback from multiple sources and forwards scrobbles to multiple services.
+
+---
+
 ## 🌐 Supported Services
 
 Common scrobbling platforms include:

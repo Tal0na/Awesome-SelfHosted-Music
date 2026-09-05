@@ -14,6 +14,7 @@ Plugins and integrations built for Navidrome.
 - ListenBrainz Daily Playlist
 - MusicBrainz Metadata
 - Navidrome Lyrics
+- NaviBeat Mixes
 
 ➡️ [Browse Navidrome Plugins](./navidrome/README.md)
 

@@ -7,3 +7,5 @@ Complementary tools for managing music libraries.
 - [Library Organization](library-management.md)
 - [Integrates Sources](integrates-sources.md)
 - [FFmpeg](ffmpeg.md)
+- [Make-a-Wrapped](make-a-wrapped.md)
+- [Intro Quiz](intro-quiz.md)
