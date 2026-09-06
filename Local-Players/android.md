@@ -29,6 +29,30 @@ A curated list of linux desktop clients
 - 🌐 [obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/namidaco/namida/)
 
 
+### 🎵 Meringo
+
+- **License:** Proprietary
+- **Open Source:** ❌ No
+- **Price:** 💰 $9.99 once — 7-day free trial, no subscription
+- **Status:** ✅ Actively maintained
+- **Rating:** ⭐⭐⭐⭐⭐
+
+#### 🌟 Highlights
+- Plug in a USB DAC and Meringo drives it directly — no Android mixer, no
+  silent resample to 48 kHz, every track at its native rate
+- Then it hashes what it shipped: a SHA-256 over the bytes it put on the
+  isochronous pipe, published per device and per build in a registry anyone
+  can recompute against
+- Verified Capture states its own limit in the same breath — the hash covers
+  what was sent to the DAC, never what the DAC received
+- Jellyfin and Subsonic libraries alongside local files
+- FLAC integrity checking against the file's own encoder signature
+
+#### 📥 Installation
+- 🛍️ [Google Play Store](https://play.google.com/store/apps/details?id=app.meringo)
+- 🌐 [Official Website](https://meringo.app) · [Receipts registry](https://meringo.app/receipts/)
+
+
 ---
 
 ## ⚠️ Notes
